@@ -1,3 +1,5 @@
 # JavaScriptBasics
 
-Learning Essential of JavaScript 
+Learning Essential of JavaScript
+
+some text writting throug local machine
